@@ -93,3 +93,9 @@ ssh molly@10.67.139.42
 hydra -l molly -P /usr/share/seclists/Passwords/Leaked-Databases/rockyou.txt \
   10.67.139.42 http-post-form "$MODULE" -s 80 -t 4 -v
 ```
+
+---
+
+## 📺 Video
+
+[![Hydra Brute Force Tutorial](https://img.youtube.com/vi/5_CuikST0Qc/0.jpg)](https://www.youtube.com/watch?v=5_CuikST0Qc)
